@@ -9,13 +9,6 @@ env/
 .env
 .env.*
 
-# Project data and generated outputs
-scopus_documents/
-clusters/
-description/
-evaluations/
-debug/
-
 # Tabular data and cached artifacts
 *.csv
 *.xlsx

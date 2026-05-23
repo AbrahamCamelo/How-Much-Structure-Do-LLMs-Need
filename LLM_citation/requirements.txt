@@ -1,0 +1,10 @@
+google-genai
+networkx
+numpy
+openai
+openpyxl
+pandas
+pyarrow
+requests
+scikit-learn
+scipy

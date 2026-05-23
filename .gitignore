@@ -1,0 +1,27 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local secrets
+.env
+.env.*
+
+# Project data and generated outputs
+scopus_documents/
+clusters/
+description/
+evaluations/
+debug/
+
+# Tabular data and cached artifacts
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
